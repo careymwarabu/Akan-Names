@@ -17,7 +17,25 @@ function Dayweek(century, year, month) {
 }
 
 // Today
-Dayweek(20, 21, 2, 23, "M")
-Dayweek(20, 21, 2, 23, "F")
+Dayweek(20, 21, 22, 23, "M")
+Dayweek(20, 21, 22, 23, "F")
+
+{
+
+    "name": "Moringaschool-Project2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "form.html",
+    "scripts": {
+        "deploy": "gh-pages -d .vscode"
+    },
+    "keywords": {},
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://careymwarabu.github.io/Moringaschool-Project2",
+    "dependencies": {
+        "gh-pages": "1.2.0"
+    }
+
 
 }
