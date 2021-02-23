@@ -35,6 +35,10 @@ Dayweek(20, 21, 22, 23, "F")
     "homepage": "https://careymwarabu.github.io/Moringaschool-Project2",
     "dependencies": {
         "gh-pages": "1.2.0"
+
+            onclick = "document.getElementById('demo').innerHTML = " >
+            Click me to get your Akan Name. < /button>
+
     }
 
 
